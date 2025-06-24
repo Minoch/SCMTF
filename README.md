@@ -4,10 +4,6 @@ This is code for the paper "Supervised Coupled Matrix-Tensor Factorization (SCMT
 
 Contributors:
 
-\
-
 Cristian Minoccheri
-
-\
 
 Sophia Tesic
