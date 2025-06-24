@@ -1,1 +1,1 @@
-# Supervised-Coupled-Matrix-Tensor-Factorization-SCMTF-for-Computational-Phenotyping
+# Supervised Coupled Matrix Tensor Factorization SCMTF for Computational Phenotyping
